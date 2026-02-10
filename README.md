@@ -1,1 +1,1 @@
-# cbs-heidelberg.de.new
+Die neue Version der CBS-Heidelberg Webseite
